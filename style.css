@@ -1,5 +1,21 @@
+#titulo{
 
-b{
-	color: blue;
-	font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 5px;
+
+}
+#p1{
+    color: red;
+    text-align: right;
+}
+#p2{
+    color: blue;
+    text-align: left;
 }
