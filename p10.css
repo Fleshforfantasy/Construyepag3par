@@ -1,0 +1,17 @@
+table{
+    margin: auto;
+    color: black;
+    width: 3px;
+    border-collapse: collapse;
+}
+caption{
+    font-weight: bold;
+    font-size: 18px;
+}
+td{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(28, 137, 231);
+    border: 8px;
+    padding: 8px;
+}

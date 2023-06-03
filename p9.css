@@ -1,0 +1,22 @@
+.todos{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+}
+#caja1{
+    top: 100px;
+    left: 100px ;
+    background-color: blueviolet;
+}
+#caja2{
+    top: 150px ;
+    left: 150px ;
+    background-color: brown;
+
+}
+#caja3{
+    top: 200px ;
+    left: 200px;
+    background-color: cadetblue;
+}
